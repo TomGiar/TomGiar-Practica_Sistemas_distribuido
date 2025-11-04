@@ -1,0 +1,18 @@
+[
+  {
+    "id": 4,
+    "name": "charmander",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/4.png",
+    "nickname": "Charmi",
+    "description": "El loco que escupe fuego",
+    "addedAt": "2025-11-04T02:28:49.873Z"
+  },
+  {
+    "id": 25,
+    "name": "pikachu",
+    "imageUrl": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/25.png",
+    "nickname": "Pika",
+    "description": "El goat de los pokemon",
+    "addedAt": "2025-11-04T02:29:24.608Z"
+  }
+]
